@@ -12,8 +12,8 @@ A brief representation of the input, 3D analysis and output are as follows:
 ![alt text](input_texture2.gif "texture1 image")
 ![alt text](input_texture1.gif "texture2 image")
 
-![alt text](texture2_gabor_3d.png "texture1 image")
-![alt text](texture1_gabor_3d.png "texture2 image")
+![alt text](/Visualization_images/texture2_gabor_3d.png "texture1 image")
+![alt text](/Visualization_images/texture1_gabor_3d.png "texture2 image")
 
-![alt text](texture2_segment.png "texture1 image")
-![alt text](texture1_segment.png "texture2 image")
+![alt text](/Visualization_images/texture2_segment.png "texture1 image")
+![alt text](/Visualization_images/texture1_segment.png "texture2 image")
